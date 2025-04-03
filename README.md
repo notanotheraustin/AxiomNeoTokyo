@@ -1,4 +1,4 @@
-# Axiom: Neo Tokyo – Game Development Repository
+# Axiom: Neo Tokyo – Development Repository
 
 Welcome to the repository for **Axiom: Neo Tokyo**, a world I intend to create. If you're interested in contributing, collaborating, or providing feedback, please feel free to reach out. I need all the help I can get on this project.
 
